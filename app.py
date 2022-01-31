@@ -3,8 +3,8 @@ import preprocessor
 import helper
 import emoji
 from emoji import emojize
-# from matplotlib import pyplot as plt
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
+# import matplotlib.pyplot as plt
 import seaborn as sns
 st.sidebar.title("Whatsapp Chat Analyzer")
 st.sidebar.header("Note : Use 24 Hours Format and mm/dd/yy date format")
